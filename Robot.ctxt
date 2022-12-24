@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Robot
+comment1.params=health\ attackPower\ x\ y\ cols
+comment1.target=Robot(double,\ double,\ double,\ double,\ int)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=void\ incrementSpriteFrame()
+comment4.params=c
+comment4.target=void\ attack(Character)
+comment5.params=
+comment5.target=void\ strengthenAttack()
+comment6.params=
+comment6.target=void\ setStrengthenAmount()
+comment7.params=
+comment7.target=double\ getStrengthenAmount()
+comment8.params=c
+comment8.target=void\ laserBeam(Character)
+numComments=9

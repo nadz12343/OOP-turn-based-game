@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SaveLoadGame
+comment1.params=ninjaHealth\ ninjaAttackPower\ enemyHealth\ enemyAttackPower
+comment1.target=void\ saveState(double,\ double,\ double,\ double)
+comment2.params=n\ c
+comment2.target=void\ loadState(Ninja,\ Character)
+numComments=3
